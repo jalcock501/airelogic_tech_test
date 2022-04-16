@@ -1,0 +1,4 @@
+# Docker template to generate working CLI
+FROM python:apline
+
+CMD python __main__.py

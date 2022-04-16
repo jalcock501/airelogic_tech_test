@@ -1,0 +1,2694 @@
+{
+    "created": "2022-04-12T13:23:32.456Z",
+    "count": 3236,
+    "offset": 0,
+    "artists": [
+        {
+            "id": "d43d12a1-2dc9-4257-a2fd-0a3bb1081b86",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 98,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny Cash",
+            "sort-name": "Cash, Johnny",
+            "gender": "male",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "7f8e9d30-1e5f-48aa-8d12-8f8dcd178461",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Kingsland",
+                "sort-name": "Kingsland",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "end-area": {
+                "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Nashville",
+                "sort-name": "Nashville",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "country music legend",
+            "ipis": [
+                "00005462217"
+            ],
+            "isnis": [
+                "0000000108823456"
+            ],
+            "life-span": {
+                "begin": "1932-02-26",
+                "end": "2003-09-12",
+                "ended": true
+            },
+            "aliases": [
+                {
+                    "sort-name": "Johhny Cash",
+                    "name": "Johhny Cash",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Jonny Cash",
+                    "name": "Jonny Cash",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Cash, J. R.",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "J. R. Cash",
+                    "locale": null,
+                    "type": "Legal name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Cash, John R.",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "John R. Cash",
+                    "locale": null,
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 2,
+                    "name": "rock"
+                },
+                {
+                    "count": 6,
+                    "name": "folk"
+                },
+                {
+                    "count": 1,
+                    "name": "american"
+                },
+                {
+                    "count": 4,
+                    "name": "blues"
+                },
+                {
+                    "count": 2,
+                    "name": "singer-songwriter"
+                },
+                {
+                    "count": 4,
+                    "name": "rockabilly"
+                },
+                {
+                    "count": 15,
+                    "name": "country"
+                },
+                {
+                    "count": 5,
+                    "name": "americana"
+                },
+                {
+                    "count": 1,
+                    "name": "classic rock"
+                },
+                {
+                    "count": 1,
+                    "name": "spoken word"
+                },
+                {
+                    "count": 2,
+                    "name": "contemporary folk"
+                },
+                {
+                    "count": 3,
+                    "name": "gospel"
+                },
+                {
+                    "count": 2,
+                    "name": "rock and roll"
+                },
+                {
+                    "count": 4,
+                    "name": "outlaw country"
+                },
+                {
+                    "count": 1,
+                    "name": "traditional folk"
+                },
+                {
+                    "count": 2,
+                    "name": "traditional country"
+                },
+                {
+                    "count": 0,
+                    "name": "favorite"
+                },
+                {
+                    "count": 1,
+                    "name": "classic country"
+                },
+                {
+                    "count": -1,
+                    "name": "death by diabetes"
+                },
+                {
+                    "count": 3,
+                    "name": "country gospel"
+                },
+                {
+                    "count": 1,
+                    "name": "little"
+                },
+                {
+                    "count": 0,
+                    "name": "cowboy"
+                },
+                {
+                    "count": 0,
+                    "name": "osteraker"
+                },
+                {
+                    "count": 0,
+                    "name": "johnny cash rock island"
+                },
+                {
+                    "count": 1,
+                    "name": "arkansas country"
+                }
+            ]
+        },
+        {
+            "id": "323ed974-8bf6-4f54-9525-b774a659f805",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 90,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny Hallyday",
+            "sort-name": "Hallyday, Johnny",
+            "gender": "male",
+            "country": "FR",
+            "area": {
+                "id": "08310658-51eb-3801-80de-5a0739207115",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "France",
+                "sort-name": "France",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "dc10c22b-e510-4006-8b7f-fecb4f36436e",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Paris",
+                "sort-name": "Paris",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "end-area": {
+                "id": "6d3e3541-b725-4d0b-9613-213bd8e6807f",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Marnes-la-Coquette",
+                "sort-name": "Marnes-la-Coquette",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "ipis": [
+                "00013263719",
+                "00028960561"
+            ],
+            "isnis": [
+                "0000000114732710"
+            ],
+            "life-span": {
+                "begin": "1943-06-15",
+                "end": "2017-12-06",
+                "ended": true
+            },
+            "aliases": [
+                {
+                    "sort-name": "Johnny Halliday",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "Johnny Halliday",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Smet, Jean-Philippe Léo",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "Jean-Philippe Léo Smet",
+                    "locale": null,
+                    "type": "Legal name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Smet, Jean-Philippe",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "Jean-Philippe Smet",
+                    "locale": null,
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 3,
+                    "name": "rock"
+                },
+                {
+                    "count": 1,
+                    "name": "pop"
+                },
+                {
+                    "count": 3,
+                    "name": "french"
+                },
+                {
+                    "count": 1,
+                    "name": "pop rock"
+                },
+                {
+                    "count": 2,
+                    "name": "chanson"
+                },
+                {
+                    "count": 1,
+                    "name": "french pop"
+                },
+                {
+                    "count": 1,
+                    "name": "european"
+                },
+                {
+                    "count": 2,
+                    "name": "yé-yé"
+                },
+                {
+                    "count": 2,
+                    "name": "rock & roll"
+                },
+                {
+                    "count": 0,
+                    "name": "todo-works"
+                },
+                {
+                    "count": 0,
+                    "name": "je te promet"
+                }
+            ]
+        },
+        {
+            "id": "48896dee-a985-424d-9849-84802f7e79c9",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 86,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny Mathis",
+            "sort-name": "Mathis, Johnny",
+            "gender": "male",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "69546058-e609-47e6-bd56-2a3660776b1c",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Gilmer",
+                "sort-name": "Gilmer",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "isnis": [
+                "0000000081610791"
+            ],
+            "life-span": {
+                "begin": "1935-09-30",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "Johhny Mathis",
+                    "name": "Johhny Mathis",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Country Johnny Mathis",
+                    "name": "Country Johnny Mathis",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Jojnny Mathis",
+                    "name": "Jojnny Mathis",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johnnie Mathis",
+                    "name": "Johnnie Mathis",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Jonny Mathis",
+                    "name": "Jonny Mathis",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Jhonny Mathis",
+                    "name": "Jhonny Mathis",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "christmas music"
+                },
+                {
+                    "count": 1,
+                    "name": "disco"
+                },
+                {
+                    "count": 1,
+                    "name": "soul"
+                },
+                {
+                    "count": 1,
+                    "name": "standards"
+                },
+                {
+                    "count": 2,
+                    "name": "easy listening"
+                },
+                {
+                    "count": 2,
+                    "name": "pop"
+                },
+                {
+                    "count": 2,
+                    "name": "jazz"
+                },
+                {
+                    "count": 1,
+                    "name": "traditional pop"
+                }
+            ]
+        },
+        {
+            "id": "8300d0fa-d120-47f6-a84e-91f140c74767",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 84,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny Winter",
+            "sort-name": "Winter, Johnny",
+            "gender": "male",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "3e75bd2f-3891-4e28-a7c3-dee590a8a3fb",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Beaumont",
+                "sort-name": "Beaumont",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "end-area": {
+                "id": "6e9c8367-459e-4271-ac33-7658cdeeb271",
+                "type": "Subdivision",
+                "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+                "name": "Zürich",
+                "sort-name": "Zürich",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "American blues/rock musician",
+            "isnis": [
+                "0000000078397387"
+            ],
+            "life-span": {
+                "begin": "1944-02-23",
+                "end": "2014-07-16",
+                "ended": true
+            },
+            "aliases": [
+                {
+                    "sort-name": "Winter, Jonny",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "Jonny Winter",
+                    "locale": "en",
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Winter, John Dawson, III",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "John Dawson Winter, III",
+                    "locale": "en",
+                    "type": "Legal name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "rock"
+                },
+                {
+                    "count": 1,
+                    "name": "american"
+                },
+                {
+                    "count": 2,
+                    "name": "blues"
+                },
+                {
+                    "count": 1,
+                    "name": "psychedelic rock"
+                },
+                {
+                    "count": 3,
+                    "name": "blues rock"
+                },
+                {
+                    "count": 1,
+                    "name": "rock and roll"
+                },
+                {
+                    "count": 1,
+                    "name": "chicago blues"
+                },
+                {
+                    "count": 3,
+                    "name": "electric blues"
+                },
+                {
+                    "count": 1,
+                    "name": "slide guitar"
+                },
+                {
+                    "count": 1,
+                    "name": "texas blues"
+                },
+                {
+                    "count": 1,
+                    "name": "boogie rock"
+                },
+                {
+                    "count": 1,
+                    "name": "electric texas blues"
+                },
+                {
+                    "count": 1,
+                    "name": "2008 universal fire victim"
+                }
+            ]
+        },
+        {
+            "id": "881d33d8-e86f-42e8-b571-dbde156f6907",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 80,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny Hodges",
+            "sort-name": "Hodges, Johnny",
+            "gender": "male",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "ff1b74fd-054b-4136-b948-bb88fe55d93f",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Cambridge",
+                "sort-name": "Cambridge",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "end-area": {
+                "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "New York",
+                "sort-name": "New York",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "ipis": [
+                "00014210546"
+            ],
+            "isnis": [
+                "0000000083930254"
+            ],
+            "life-span": {
+                "begin": "1906-07-25",
+                "end": "1970-05-11",
+                "ended": true
+            },
+            "aliases": [
+                {
+                    "sort-name": "Hodges, John Cornelius",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "John Cornelius Hodges",
+                    "locale": null,
+                    "type": "Legal name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Ходжес, Д.",
+                    "name": "Д. Ходжес",
+                    "locale": "ru",
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Jhonny Hodges",
+                    "name": "Jhonny Hodges",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Jhony Hodges",
+                    "name": "Jhony Hodges",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Jony Hoges",
+                    "name": "Jony Hoges",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "J. Hodges",
+                    "name": "J. Hodges",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "John Hodges",
+                    "name": "John Hodges",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johny Hodges",
+                    "name": "Johny Hodges",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Jony Hodges",
+                    "name": "Jony Hodges",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 3,
+                    "name": "jazz"
+                },
+                {
+                    "count": 1,
+                    "name": "swing"
+                },
+                {
+                    "count": 1,
+                    "name": "big band"
+                },
+                {
+                    "count": 1,
+                    "name": "cool jazz"
+                },
+                {
+                    "count": 1,
+                    "name": "soul jazz"
+                },
+                {
+                    "count": -1,
+                    "name": "death by heart attack"
+                }
+            ]
+        },
+        {
+            "id": "8736f41f-365e-42c7-a733-36c22e74c97e",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 79,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny Horton",
+            "sort-name": "Horton, Johnny",
+            "gender": "male",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Los Angeles",
+                "sort-name": "Los Angeles",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "end-area": {
+                "id": "ec558bf0-952d-4771-b5ec-6ee5114bce55",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Milano",
+                "sort-name": "Milano",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "ipis": [
+                "00014415227"
+            ],
+            "isnis": [
+                "0000000118102871"
+            ],
+            "life-span": {
+                "begin": "1925-04-30",
+                "end": "1960-11-05",
+                "ended": true
+            },
+            "aliases": [
+                {
+                    "sort-name": "Horton, John Gale",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "John Gale Horton",
+                    "locale": null,
+                    "type": "Legal name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "american"
+                },
+                {
+                    "count": 1,
+                    "name": "country"
+                },
+                {
+                    "count": 1,
+                    "name": "honky tonk"
+                },
+                {
+                    "count": 0,
+                    "name": "greatest hits"
+                },
+                {
+                    "count": 0,
+                    "name": "death by automobile"
+                }
+            ]
+        },
+        {
+            "id": "e92e6d99-d4b3-4942-a6e6-b59427dae61e",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 78,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny Burnette",
+            "sort-name": "Burnette, Johnny",
+            "gender": "male",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "c2d96f61-75a4-4375-aed5-6aacb0b6326a",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Memphis",
+                "sort-name": "Memphis",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "end-area": {
+                "id": "248a78a5-63f5-4b10-926f-a2e36f5ba4e1",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Clearlake",
+                "sort-name": "Clearlake",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "ipis": [
+                "00063569458"
+            ],
+            "isnis": [
+                "0000000063085858"
+            ],
+            "life-span": {
+                "begin": "1934-03-25",
+                "end": "1964-08-14",
+                "ended": true
+            },
+            "aliases": [
+                {
+                    "sort-name": "Burnette, John Joseph",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "John Joseph Burnette",
+                    "locale": null,
+                    "type": "Legal name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johhny Burnette",
+                    "name": "Johhny Burnette",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Jonny Burnette",
+                    "name": "Jonny Burnette",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johnny Burnett",
+                    "name": "Johnny Burnett",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johnny Brunette",
+                    "name": "Johnny Brunette",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "death by drowining"
+                },
+                {
+                    "count": 1,
+                    "name": "death by boat"
+                },
+                {
+                    "count": 1,
+                    "name": "2008 universal fire victim"
+                }
+            ]
+        },
+        {
+            "id": "14086a44-c2f3-4e26-b16b-ae71a396d2dd",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 78,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny Jordaan",
+            "sort-name": "Jordaan, Johnny",
+            "gender": "male",
+            "country": "NL",
+            "area": {
+                "id": "ef1b7cc0-cd26-36f4-8ea0-04d9623786c7",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "Netherlands",
+                "sort-name": "Netherlands",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "e8e317a1-268c-4e46-9db1-f10af959ffca",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Amsterdam",
+                "sort-name": "Amsterdam",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "end-area": {
+                "id": "e8e317a1-268c-4e46-9db1-f10af959ffca",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Amsterdam",
+                "sort-name": "Amsterdam",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "isnis": [
+                "000000003233038X"
+            ],
+            "life-span": {
+                "begin": "1924-02-07",
+                "end": "1989-01-08",
+                "ended": true
+            },
+            "aliases": [
+                {
+                    "sort-name": "Musscher, Johannes Hendricus van",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "Johannes Hendricus van Musscher",
+                    "locale": null,
+                    "type": "Legal name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "dutch"
+                },
+                {
+                    "count": 1,
+                    "name": "the netherlands"
+                }
+            ]
+        },
+        {
+            "id": "0efaa6e3-3ef1-4481-bc01-aa3d5901dbdc",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 78,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny Nash",
+            "sort-name": "Nash, Johnny",
+            "gender": "male",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Houston",
+                "sort-name": "Houston",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "end-area": {
+                "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Houston",
+                "sort-name": "Houston",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "isnis": [
+                "0000000114606239"
+            ],
+            "life-span": {
+                "begin": "1940-08-19",
+                "end": "2020-10-06",
+                "ended": true
+            },
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "rocksteady"
+                },
+                {
+                    "count": 0,
+                    "name": "classic pop and rock"
+                },
+                {
+                    "count": 1,
+                    "name": "pop soul"
+                },
+                {
+                    "count": 1,
+                    "name": "pop reggae"
+                },
+                {
+                    "count": 1,
+                    "name": "2008 universal fire victim"
+                }
+            ]
+        },
+        {
+            "id": "71bf18dd-f88f-4b5a-b020-0b92a056e710",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 77,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Baby Bird",
+            "sort-name": "Baby Bird",
+            "gender": "male",
+            "country": "GB",
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "solo releases",
+            "life-span": {
+                "ended": null
+            }
+        },
+        {
+            "id": "83ae615f-b54a-4a80-8ab0-1de96820dd80",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 77,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny Rivers",
+            "sort-name": "Rivers, Johnny",
+            "gender": "male",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "New York",
+                "sort-name": "New York",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "ipis": [
+                "00026190108"
+            ],
+            "isnis": [
+                "0000000055130532"
+            ],
+            "life-span": {
+                "begin": "1942-11-07",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "Ramistella, John Henry",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "John Henry Ramistella",
+                    "locale": null,
+                    "type": "Legal name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "rock and indie"
+                },
+                {
+                    "count": 1,
+                    "name": "pop rock"
+                },
+                {
+                    "count": 1,
+                    "name": "rock & roll"
+                },
+                {
+                    "count": 1,
+                    "name": "whisky a go go"
+                },
+                {
+                    "count": 1,
+                    "name": "rhythm & blues"
+                },
+                {
+                    "count": 1,
+                    "name": "eddie rubin"
+                },
+                {
+                    "count": 1,
+                    "name": "rock"
+                }
+            ]
+        },
+        {
+            "id": "2e044523-e7a8-4167-99b4-f835b88ff712",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 77,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny Tillotson",
+            "sort-name": "Tillotson, Johnny",
+            "gender": "male",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "92d87c63-fc98-46cb-b3a6-a75a4b67d1cf",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Jacksonville",
+                "sort-name": "Jacksonville",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "ipis": [
+                "00030651615"
+            ],
+            "isnis": [
+                "0000000114786831"
+            ],
+            "life-span": {
+                "begin": "1939-04-20",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "Jonny Tillotson",
+                    "name": "Jonny Tillotson",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johnny Tilotson",
+                    "name": "Johnny Tilotson",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "John Tillotson",
+                    "name": "John Tillotson",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johnny Tilson",
+                    "name": "Johnny Tilson",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johnny Tiloltson",
+                    "name": "Johnny Tiloltson",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "classic pop and rock"
+                }
+            ]
+        },
+        {
+            "id": "3c79e3ff-f41b-45d8-af26-40151798056b",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 77,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny Clarke",
+            "sort-name": "Clarke, Johnny",
+            "gender": "male",
+            "country": "JM",
+            "area": {
+                "id": "2dd47a64-91d5-3b13-bc94-80043ed063d7",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "Jamaica",
+                "sort-name": "Jamaica",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "Jamaican reggae musician, also known as Shy Tony",
+            "isnis": [
+                "0000000078392252",
+                "0000000373953593"
+            ],
+            "life-span": {
+                "begin": "1955-01-12",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "Janny Clark",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "Janny Clark",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Jhonny Clarke",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "Jhonny Clarke",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Shy Tony",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "Shy Tony",
+                    "locale": null,
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johnny Clarkel",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "Johnny Clarkel",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johnny Clark",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "Johnny Clark",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "John Clarke",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "John Clarke",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Clarke, Johhny",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "Johhny Clarke",
+                    "locale": null,
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johnny Clare",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "Johnny Clare",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johney Clark",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "Johney Clark",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johnie Clarke",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "Johnie Clarke",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johnney Clarke",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "Johnney Clarke",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johnnie 'Studio Idler' Clarke",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "Johnnie 'Studio Idler' Clarke",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Jonny Clarke",
+                    "type-id": "1937e404-b981-3cb7-8151-4c86ebfc8d8e",
+                    "name": "Jonny Clarke",
+                    "locale": null,
+                    "type": "Search hint",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ]
+        },
+        {
+            "id": "fae7b17e-03e9-44ea-9734-f4ed92246f9f",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 76,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny PayCheck",
+            "sort-name": "PayCheck, Johnny",
+            "gender": "male",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "0f7618ee-6907-4f53-829d-35d9ea484c0a",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Greenfield",
+                "sort-name": "Greenfield",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "end-area": {
+                "id": "e68879f9-bd95-41ff-96ba-c082ff37cc74",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Nashville",
+                "sort-name": "Nashville",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "country music singer-songwriter",
+            "ipis": [
+                "00023702224"
+            ],
+            "isnis": [
+                "0000000368411378"
+            ],
+            "life-span": {
+                "begin": "1938-05-31",
+                "end": "2003-02-19",
+                "ended": true
+            },
+            "aliases": [
+                {
+                    "sort-name": "Lytle, Donald",
+                    "name": "Donald Lytle",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Young, Donny",
+                    "name": "Donny Young",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Lytle, Donald Eugene",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "Donald Eugene Lytle",
+                    "locale": null,
+                    "type": "Legal name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johnny",
+                    "name": "Johnny",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": -1,
+                    "name": "death by asthma"
+                },
+                {
+                    "count": -1,
+                    "name": "death by emphysema"
+                }
+            ]
+        },
+        {
+            "id": "f9625cf4-1436-4f2c-bd5e-743eba86808c",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 76,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny Griffin",
+            "sort-name": "Griffin, Johnny",
+            "gender": "male",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Chicago",
+                "sort-name": "Chicago",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "end-area": {
+                "id": "5a002303-f3ec-45f0-bb3c-277ad0ad1e67",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Availles-Limouzine",
+                "sort-name": "Availles-Limouzine",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "ipis": [
+                "00052825092"
+            ],
+            "isnis": [
+                "0000000118159720"
+            ],
+            "life-span": {
+                "begin": "1928-04-24",
+                "end": "2008-07-25",
+                "ended": true
+            },
+            "aliases": [
+                {
+                    "sort-name": "Johnny Garffin",
+                    "name": "Johnny Garffin",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "hard bop"
+                },
+                {
+                    "count": 2,
+                    "name": "jazz"
+                }
+            ]
+        },
+        {
+            "id": "3f107c41-0c08-44dc-b2a6-5ad7bc4e8fd6",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 76,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny Pearson",
+            "sort-name": "Pearson, Johnny",
+            "gender": "male",
+            "country": "GB",
+            "area": {
+                "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United Kingdom",
+                "sort-name": "United Kingdom",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "338e2a89-1256-45c8-a59c-bedb8d8f533b",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Chesterfield",
+                "sort-name": "Chesterfield",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "isnis": [
+                "0000000118737738"
+            ],
+            "life-span": {
+                "begin": "1925-06-18",
+                "end": "2011-03-20",
+                "ended": true
+            },
+            "aliases": [
+                {
+                    "sort-name": "J Pearson",
+                    "name": "J Pearson",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "production music"
+                },
+                {
+                    "count": 2,
+                    "name": "library music"
+                },
+                {
+                    "count": 2,
+                    "name": "english"
+                },
+                {
+                    "count": 2,
+                    "name": "light music"
+                }
+            ]
+        },
+        {
+            "id": "3b14b1a7-2235-4fcf-a718-383beb79e856",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 76,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny Thunders",
+            "sort-name": "Thunders, Johnny",
+            "gender": "male",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "dc6f0d21-5405-4935-bda6-9a8a552ace52",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "East Elmhurst",
+                "sort-name": "East Elmhurst",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "end-area": {
+                "id": "3c5a0506-d852-4e96-8d1e-d8126328f3be",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "New Orleans",
+                "sort-name": "New Orleans",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "US punk guitarist & singer",
+            "ipis": [
+                "00075684833"
+            ],
+            "isnis": [
+                "000000005516322X"
+            ],
+            "life-span": {
+                "begin": "1952-07-15",
+                "end": "1991-04-23",
+                "ended": true
+            },
+            "tags": [
+                {
+                    "count": 0,
+                    "name": "death by leukemia"
+                },
+                {
+                    "count": 0,
+                    "name": "death by overdose"
+                },
+                {
+                    "count": 1,
+                    "name": "rock"
+                },
+                {
+                    "count": 1,
+                    "name": "punk"
+                },
+                {
+                    "count": 1,
+                    "name": "usa"
+                }
+            ]
+        },
+        {
+            "id": "74dca2c7-d7dc-4b13-bd17-502a35db042a",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 76,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny Osbourne",
+            "sort-name": "Osbourne, Johnny",
+            "gender": "male",
+            "country": "JM",
+            "area": {
+                "id": "2dd47a64-91d5-3b13-bc94-80043ed063d7",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "Jamaica",
+                "sort-name": "Jamaica",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "23e0d135-9fe7-48cb-b2c4-93addd3d1e37",
+                "type": "Subdivision",
+                "type-id": "fd3d44c5-80a1-3842-9745-2c4972d35afa",
+                "name": "Kingston",
+                "sort-name": "Kingston",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "Jamaican reggae singer",
+            "ipis": [
+                "00036520994"
+            ],
+            "isnis": [
+                "0000000055159693"
+            ],
+            "life-span": {
+                "begin": "1948",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "Johnny Osbourne & Papa Tullo",
+                    "name": "Johnny Osbourne & Papa Tullo",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johnny Osbourne and Burro Banton",
+                    "name": "Johnny Osbourne and Burro Banton",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johnny Osborne",
+                    "name": "Johnny Osborne",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johnnie Osbourne",
+                    "name": "Johnnie Osbourne",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Osbourne, Errol",
+                    "type-id": "d4dcd0c0-b341-3612-a332-c0ce797b25cf",
+                    "name": "Errol Osbourne",
+                    "locale": "en_JM",
+                    "type": "Legal name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ]
+        },
+        {
+            "id": "356abadf-a35c-4f93-baa2-9977b1c14046",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 75,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny Hartman",
+            "sort-name": "Hartman, Johnny",
+            "gender": "male",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "29a709d8-0320-493e-8d0c-f2c386662b7f",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Chicago",
+                "sort-name": "Chicago",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "end-area": {
+                "id": "74e50e58-5deb-4b99-93a2-decbb365c07f",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "New York",
+                "sort-name": "New York",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "jazz singer",
+            "isnis": [
+                "0000000063016377"
+            ],
+            "life-span": {
+                "begin": "1923-07-03",
+                "end": "1983-09-15",
+                "ended": true
+            },
+            "aliases": [
+                {
+                    "sort-name": "Johnny Hartmann",
+                    "name": "Johnny Hartmann",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 1,
+                    "name": "jazz"
+                },
+                {
+                    "count": 1,
+                    "name": "vocal jazz"
+                },
+                {
+                    "count": 1,
+                    "name": "2008 universal fire victim"
+                }
+            ]
+        },
+        {
+            "id": "a737ebf0-09b5-4453-9d88-54af1e0350c5",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 75,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny",
+            "sort-name": "Johnny",
+            "gender": "male",
+            "country": "FI",
+            "area": {
+                "id": "6a264f94-6ff1-30b1-9a81-41f7bfabd616",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "Finland",
+                "sort-name": "Finland",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "39d62198-1e76-4de4-b079-e86e3a393bbc",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Helsinki",
+                "sort-name": "Helsinki",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "Finnish pop singer from the 1960s.",
+            "isnis": [
+                "0000000130366036"
+            ],
+            "life-span": {
+                "begin": "1945-09-22",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "Liebkind, Johnny",
+                    "name": "Johnny Liebkind",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ]
+        },
+        {
+            "id": "defba3df-b0f3-4ef1-8e1f-4ef88cc8fc42",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 75,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny “Guitar” Watson",
+            "sort-name": "Watson, Johnny “Guitar”",
+            "gender": "male",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "c920948b-83e3-40b7-8fe9-9ab5abaac55b",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Houston",
+                "sort-name": "Houston",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "end-area": {
+                "id": "805ccce6-4760-4076-a2b2-dfbbd5d237cc",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Yokohama",
+                "sort-name": "Yokohama",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "ipis": [
+                "00032567295",
+                "00036282783"
+            ],
+            "isnis": [
+                "0000000055136272"
+            ],
+            "life-span": {
+                "begin": "1935-02-03",
+                "end": "1996-05-17",
+                "ended": true
+            },
+            "aliases": [
+                {
+                    "sort-name": "Watson, Young Johnny",
+                    "type-id": "894afba6-2816-3c24-8072-eadb66bd04bc",
+                    "name": "Young Johnny Watson",
+                    "locale": null,
+                    "type": "Artist name",
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": "1954"
+                },
+                {
+                    "sort-name": "J.G. Watson",
+                    "name": "J.G. Watson",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johny Guitar Watson",
+                    "name": "Johny Guitar Watson",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johnny Watson",
+                    "name": "Johnny Watson",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Jonny 'Guitar' Watson",
+                    "name": "Jonny 'Guitar' Watson",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johnny Guitar Watson",
+                    "name": "Johnny Guitar Watson",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Young John Watson",
+                    "name": "Young John Watson",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Watson, Young John",
+                    "name": "Watson, Young John",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Johnny 'Guitar' Watson",
+                    "name": "Johnny 'Guitar' Watson",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 2,
+                    "name": "blues"
+                },
+                {
+                    "count": 2,
+                    "name": "funk"
+                },
+                {
+                    "count": 2,
+                    "name": "soul"
+                },
+                {
+                    "count": 1,
+                    "name": "electric blues"
+                },
+                {
+                    "count": 1,
+                    "name": "rhythm and blues"
+                },
+                {
+                    "count": 1,
+                    "name": "classic pop and rock"
+                },
+                {
+                    "count": 1,
+                    "name": "rock & roll"
+                },
+                {
+                    "count": 1,
+                    "name": "rhythm & blues"
+                },
+                {
+                    "count": 1,
+                    "name": "lone ranger"
+                },
+                {
+                    "count": 1,
+                    "name": "2008 universal fire victim"
+                }
+            ]
+        },
+        {
+            "id": "0f7eb108-9fef-4abd-98c1-5bd1ec6b0add",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 75,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny Klimek",
+            "sort-name": "Klimek, Johnny",
+            "gender": "male",
+            "area": {
+                "id": "1f40c6e1-47ba-4e35-996f-fe6ee5840e62",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Los Angeles",
+                "sort-name": "Los Angeles",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "b4e9352c-8edf-4911-8fa3-e852afa30501",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Melbourne",
+                "sort-name": "Melbourne",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "ipis": [
+                "00207158781"
+            ],
+            "isnis": [
+                "0000000109209829"
+            ],
+            "life-span": {
+                "begin": "1962-08-18",
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "John Klimek",
+                    "name": "John Klimek",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ]
+        },
+        {
+            "id": "66ea0139-149f-4a0c-8fbf-5ea9ec4a6e49",
+            "type": "Other",
+            "type-id": "ac897045-5043-3294-969b-187360e45d86",
+            "score": 75,
+            "gender-id": "8cf3c8c8-4af9-4b53-bad4-e43c0450ba04",
+            "name": "[Disney]",
+            "sort-name": "[Disney]",
+            "gender": "not applicable",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "disambiguation": "Special Purpose Artist - Do not add releases here, if possible.",
+            "life-span": {
+                "ended": null
+            },
+            "aliases": [
+                {
+                    "sort-name": "Cast - Sofia the First",
+                    "name": "Cast - Sofia the First",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Walt Disney World",
+                    "name": "Walt Disney World",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Disney Orchestra",
+                    "name": "Disney Orchestra",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "The Lion King",
+                    "name": "The Lion King",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Disney's Peter Pan",
+                    "name": "Disney's Peter Pan",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Walt Disney's Classic",
+                    "name": "Walt Disney's Classic",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Disney Characters",
+                    "name": "Disney Characters",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Walt Disney's",
+                    "name": "Walt Disney's",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "A Dama e o Vagabundo",
+                    "name": "A Dama e o Vagabundo",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "'The Muppets' Entire Cast",
+                    "name": "'The Muppets' Entire Cast",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Walt Disney Music Company",
+                    "name": "Walt Disney Music Company",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "DuckTales",
+                    "name": "DuckTales",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Aristogatas",
+                    "name": "Aristogatas",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Disney",
+                    "name": "Disney",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Christmas With Disney",
+                    "name": "Christmas With Disney",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Disney Babies",
+                    "name": "Disney Babies",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "The Chicken Little Cast",
+                    "name": "The Chicken Little Cast",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Teen Beach Movie Cast",
+                    "name": "Teen Beach Movie Cast",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Jungle Book Disney Cast",
+                    "name": "Jungle Book Disney Cast",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Walt Disney Records",
+                    "name": "Walt Disney Records",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Classic Disney",
+                    "name": "Classic Disney",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Walt Disney Pictures",
+                    "name": "Walt Disney Pictures",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "The Walt Disney World Band",
+                    "name": "The Walt Disney World Band",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "disny",
+                    "name": "disny",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Disneyland Resort Paris",
+                    "name": "Disneyland Resort Paris",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Disney Children's Favorites",
+                    "name": "Disney Children's Favorites",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Lion King",
+                    "name": "Lion King",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Disney Soundtracks",
+                    "name": "Disney Soundtracks",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Cast - Jungle Junction",
+                    "name": "Cast - Jungle Junction",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Disney Pictures",
+                    "name": "Disney Pictures",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Das Dschungelbuch",
+                    "name": "Das Dschungelbuch",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Disney's Christmas",
+                    "name": "Disney's Christmas",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Disney Channel",
+                    "name": "Disney Channel",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Walt Disney & Carl Stalling",
+                    "name": "Walt Disney & Carl Stalling",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Elena of Avalor Cast",
+                    "name": "Elena of Avalor Cast",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "[迪士尼]",
+                    "name": "[迪士尼]",
+                    "locale": "zh",
+                    "type": null,
+                    "primary": true,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Coro - A bela e a fera",
+                    "name": "Coro - A bela e a fera",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Disney Pixar",
+                    "name": "Disney Pixar",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Disney Princesses",
+                    "name": "Disney Princesses",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Disney Soundtrack",
+                    "name": "Disney Soundtrack",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Disney Cast",
+                    "name": "Disney Cast",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                },
+                {
+                    "sort-name": "Cast - Phineas and Ferb",
+                    "name": "Cast - Phineas and Ferb",
+                    "locale": null,
+                    "type": null,
+                    "primary": null,
+                    "begin-date": null,
+                    "end-date": null
+                }
+            ],
+            "tags": [
+                {
+                    "count": 4,
+                    "name": "special purpose artist"
+                },
+                {
+                    "count": 2,
+                    "name": "fixme"
+                },
+                {
+                    "count": 2,
+                    "name": "bogus artist"
+                },
+                {
+                    "count": 0,
+                    "name": "use actual artists"
+                },
+                {
+                    "count": 1,
+                    "name": "special purpose"
+                }
+            ]
+        },
+        {
+            "id": "ebb042e3-ec96-44de-80fa-65457e9c9560",
+            "type": "Person",
+            "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+            "score": 74,
+            "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+            "name": "Johnny Adams",
+            "sort-name": "Adams, Johnny",
+            "gender": "male",
+            "country": "US",
+            "area": {
+                "id": "489ce91b-6658-3307-9877-795b68554c98",
+                "type": "Country",
+                "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+                "name": "United States",
+                "sort-name": "United States",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "begin-area": {
+                "id": "3c5a0506-d852-4e96-8d1e-d8126328f3be",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "New Orleans",
+                "sort-name": "New Orleans",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "end-area": {
+                "id": "34f02dc4-3173-4c68-86d1-c82504759342",
+                "type": "City",
+                "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+                "name": "Baton Rouge",
+                "sort-name": "Baton Rouge",
+                "life-span": {
+                    "ended": null
+                }
+            },
+            "isnis": [
+                "0000000071450886"
+            ],
+            "life-span": {
+                "begin": "1932-01-05",
+                "end": "1998-09-14",
+                "ended": true
+            }
+        }
+    ]
+}
