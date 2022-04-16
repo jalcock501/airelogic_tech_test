@@ -10,7 +10,8 @@ Requires [poetry](https://pypi.org/project/poetry/) to run... think of pip but b
 `poetry install`
 
 How to run?
-[Insert screenshot here]
+![image](https://user-images.githubusercontent.com/38649437/163672131-d38fcb4f-af4b-4a1a-aeba-670140a409ad.png)
+
 
 ## Caveats
 
