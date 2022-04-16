@@ -8,7 +8,7 @@ This is intended to be run on most Linux Distros.... ubuntu 20.04 LTS in my case
 
 #### Locally
 Requires [poetry](https://pypi.org/project/poetry/) to run... think of pip but better<br />
-`poetry install`
+once installed on local machine from project directory containing `pyproject.toml` run cmd `poetry install`
 
 #### Docker
 
