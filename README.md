@@ -11,6 +11,7 @@ Requires [poetry](https://pypi.org/project/poetry/) to run... think of pip but b
 `poetry install`
 
 #### Docker
+<<<<<<< HEAD
 
 example:<br />
 build from basedir: `docker build -t techtest --rm -f .docker/Dockerfile .`<br />
@@ -18,6 +19,9 @@ run: `docker run -it --name tech_test --rm techtest`
 
 ##### docker-compose
 `docker-compose -f .docker/docker-compose.yml up`
+=======
+`docker build -t techtest --rm -f .docker/Dockerfile .`
+>>>>>>> cc7db5c9e18d440dd7fdacc0acc44f1a2dedde93
 
 How to run? <br />
 ![image](https://user-images.githubusercontent.com/38649437/163672131-d38fcb4f-af4b-4a1a-aeba-670140a409ad.png)
